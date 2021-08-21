@@ -1,0 +1,13 @@
+.about{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color:white;
+    padding: 20px;
+    width: 60%;
+    height: 300px;
+    font-size: 18px;
+    border-radius: 4px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
